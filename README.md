@@ -1,4 +1,5 @@
-Amazon Thoughts and Prayers clicker
+###Amazon Thoughts and Prayers clicker
+##A commentary on the commercialization of sympathy
 -Requires pygame to run
 -sound and graphics in 'data' folder. Also included is woking sound and graphics files. Also Lato font files in case desired
 
